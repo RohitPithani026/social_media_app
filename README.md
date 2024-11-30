@@ -19,11 +19,6 @@ A dynamic social media application built with Flutter and Firebase, designed to 
     
 -   **Responsive Design**  
     A modern, user-friendly interface optimized for mobile devices.
-    
-
-## Screenshots 📸
-
-_Add relevant screenshots of the app here to showcase features and UI._
 
 ## Installation & Setup 🛠️
 
